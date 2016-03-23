@@ -11,7 +11,7 @@ Input: 1) read in a file containing lines with format
 	   	2) name of the object, e.g. abc, 
 	   	   bucket number e.g.10
 
-Output: interval for that bucket, 1:2
+Output: interval for that bucket, two numbers 
 
 
 '''
